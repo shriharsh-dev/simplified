@@ -1,2 +1,2 @@
-# simplified
-A web based note taking app built using django. 
+# writin
+A simple content management system. 
